@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franco Romero</h1>
-<h3 align="center">- Aspiring developer from Argentina - currently debugging both my code and my career🫠</h3>
+<h3 align="center">- Aspiring developer from Argentina - 
+currently debugging both my code and my career🫠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franro16&label=Profile%20views&color=0e75b6&style=flat" alt="franro16" /> </p>
 
